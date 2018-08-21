@@ -9,12 +9,12 @@ function Scooter(year, color, model){
 }
 
 
-function Driver(name, age, experi){
+function Driver(name, age, experience){
   
   this.name = name;
   this.age = age;
-  this.ex = ex;
+  this.ex = experience;
    
   
-  return name , age , ex;
+  return name , age , experience;
 }
