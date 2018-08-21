@@ -16,4 +16,5 @@ function Driver(name, age, ex){
   this.ex = ex;
    
   
+  return year , color , model;
 }
