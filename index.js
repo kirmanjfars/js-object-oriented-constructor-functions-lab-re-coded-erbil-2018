@@ -16,9 +16,9 @@ function Driver(name, age, experience){
   return name , age , experience;
 }
 
-function PickupLocation(addresm ,city){
+function PickupLocation(addres ,city){
   
-  this.address =addresm;
+  this.address =addres;
   this.city = city;
   return address, city;
   
